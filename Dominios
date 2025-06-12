@@ -5,3 +5,75 @@
 0.0.0.0 youtu.be
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
+
+
+# ---------- Facebook ----------
+0.0.0.0   facebook.com
+0.0.0.0   www.facebook.com
+0.0.0.0   m.facebook.com
+0.0.0.0   fbcdn.net
+0.0.0.0   static.xx.fbcdn.net
+0.0.0.0   connect.facebook.net
+
+# ---------- Instagram ----------
+0.0.0.0   instagram.com
+0.0.0.0   www.instagram.com
+0.0.0.0   i.instagram.com
+0.0.0.0   instagramcdn.com
+
+# ---------- Twitter / X ----------
+0.0.0.0   twitter.com
+0.0.0.0   www.twitter.com
+0.0.0.0   mobile.twitter.com
+0.0.0.0   api.twitter.com
+0.0.0.0   abs.twimg.com
+
+# ---------- TikTok ----------
+0.0.0.0   tiktok.com
+0.0.0.0   www.tiktok.com
+0.0.0.0   m.tiktok.com
+0.0.0.0   p16-tiktokcdn.com
+0.0.0.0   v16-web.tiktok.com
+
+# ---------- LinkedIn ----------
+0.0.0.0   linkedin.com
+0.0.0.0   www.linkedin.com
+
+# ---------- Snapchat ----------
+0.0.0.0   snapchat.com
+0.0.0.0   www.snapchat.com
+
+# ---------- Pinterest ----------
+0.0.0.0   pinterest.com
+0.0.0.0   www.pinterest.com
+
+# ---------- Reddit ----------
+0.0.0.0   reddit.com
+0.0.0.0   www.reddit.com
+0.0.0.0   old.reddit.com
+0.0.0.0   redditmedia.com
+0.0.0.0   redditstatic.com
+
+# ---------- WhatsApp Web & Messenger ----------
+0.0.0.0   web.whatsapp.com
+0.0.0.0   messenger.com
+
+# ---------- Telegram Web ----------
+0.0.0.0   web.telegram.org
+0.0.0.0   telegram.org
+
+# ---------- Discord ----------
+0.0.0.0   discord.com
+0.0.0.0   www.discord.com
+0.0.0.0   discordapp.com
+
+# ---------- Spotify ----------
+0.0.0.0   spotify.com
+0.0.0.0   www.spotify.com
+0.0.0.0   open.spotify.com
+0.0.0.0   play.spotify.com
+0.0.0.0   audio.spotify.com
+0.0.0.0   p.scdn.co
+0.0.0.0   audio-fa.scdn.co
+0.0.0.0   spclient.wg.spotify.com
+0.0.0.0   spclient-audio.spotify.com
